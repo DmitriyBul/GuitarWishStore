@@ -8,4 +8,13 @@ body {
 }
 
 /* Resize images */
-
+.filtered_image{
+    width: 200px;
+    height: 150px;
+    overflow: hidden;
+    margin: 10px;
+}
+.filtered_image img {
+    width: initial;
+    height: 150px;
+}
